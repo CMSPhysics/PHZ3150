@@ -1,0 +1,295 @@
+Corine Smith
+
+Log for PHZ 3150, Spring 2022
+
+***** IN:  Tues Jan 11 15:17:37 EST 2022
+
+Made a directory for the class here: 
+/PHZ_3150.log
+
+I opened my terminal and new directory then right clicked to select new folder(s) to create:
+
+/PHZ_3150_Handin.log
+and 
+/PHZ_3150_Homework.log
+and
+/PHZ_3150_Demos.log
+
+I opened notepad, started this log, saved as: 
+/PHZ_3150_handin/hw1_Smith.log 
+
+I then copy-pasted the questionnaire and filled it in here:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+Name:Corine Smith
+Email:cmsengineering@knights.ucf.edu
+Phone:250-151-1175
+Major:(Double Major) Physics and Photonics Science and Engineering 
+Year:2nd 
+ID:5367851
+How did you hear about this course? Academic Advisor
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+What operating system and version does it run? Windows 10 Home
+How much free disk space does it have? 402GB
+What operating systems are you comfortable working in? Windows, Origin
+What computer classes have you taken, including high school,
+extracurricular, etc.? None
+Have you ever programmed a computer? No
+In what language(s)? N/A
+Summarize your experience:
+Have you taken statistics or probability? No
+Why are you taking this course? Its a skill that will immensely help me in my research work 
+Are there particular topics you hope to learn? General coding focused on physics 
+If you have worked with scientific data or modeling before, briefly
+describe your experience: Yes, I have experience curve fitting and data manipulation in Origin
+Have you ever been involved with a science club or similar?  If so,
+describe: I am a research assistant at UCF for Dr M Vaida in a Ultrashort Laser Lab that focuses on Photocatalysis (Charge carrier dyanamics, Synthesis and Characterization of 2D nanostructures, Ultrafast Molecular dynamics)
+
+
+***** OUT:  Tues Jan 11 15:25:45 EST 2022
+
+***** IN:  Tues Jan 11 18:53:15 EST 2022
+
+Made a new directory for books here:
+/PHZ_3150_Books.log
+
+I used the link provided in the PHZ3150 syllabus to search for "Thinkpython2" and downloaded the PDF, saving it to the book directory in PHZ 3150. 
+
+https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+I then copied this log here:
+/PHZ_3150_Handin_HW1_Smith.log 
+
+I right clicked and zipped/compressed this file, then uploaded it onto webcourses.
+
+
+***** OUT:  Tues Jan 11 18:58:45 EST 2022
+
+***** IN:  Thurs Jan 13 12:50:59 EST 2022
+
+Opened files on webcourses for computer installations. 
+
+Accepted application for github by clicking on link provided for classroom. 
+
+Downloaded minconda 3.9 windows 64 bit. Updated conda installation packages, installed numpy, scipy, ipython, matplotlib.
+
+Downloaded Atom text editor from atom.io website 
+
+***** OUT: Thurs Jan 13 13:12:21 EST 2022
+
+***** IN: Tues Jan 18 16:47:35 EST 2022
+
+Homework 2 Answers 
+
+=== Problem 1 ===
+
+On Jan 15 2022 Downloaded both Jupyter and Spyder software and saved to menu bar 
+I found the commands for the downloads on the installation handout from files in the PHZ 3150 course, following:
+
+https://www.spyder-ide.org/
+
+I opened Anaconda and printed command: 
+
+conda install syder 
+
+This installed Spyder in my start menu
+HW2_CSmith_Problem1a_ScreenshotSpyder.png
+
+I installed Jupyter from the same instructions on the installation handout:
+
+https://jupyter.org/install
+
+I opened Anaconda and printed command: 
+
+conda install jupyter
+ 
+This installed Jupyter in my start menu
+HW2_CSmith_Problem1a_ScreenshotJupyter.png
+
+A) 
+
+Installed version of Python 3
+HW2_CSmith_Problem1a_ScreenshotPythonVersion.png
+
+B)
+
+Installed GitHub desktop and named it PHZ3150
+HW2_CSmith_Problem1b_ScreenshotGitHubDesktop.png
+
+=== Problem 2 ===
+
+My f@vour*te physi#st is Ric$ard Feynman. 
+
+Physicist favourite Richard Feynman my is. 
+
+When employing programming language, natural language raises difficulties due to ambiguity, redundancy, and literalness.  Programming requires clear and concise statements that are unambiguous in any context, and are without unneeded dialogue or phrases. It is also important in programming language that the text is literal, and free from any figures of speech or allegory. 
+
+***** OUT: Tues Jan 18 17:45:25 EST 2022
+
+***** IN: Wed Jan 19 14:16:10 EST 2022
+
+Homework 2 Answers 
+
+=== Problem 1 ===
+
+On Jan 15 2022 Downloaded both Jupyter and Spyder software and saved to menu bar 
+I found the commands for the downloads on the installation handout from files in the PHZ 3150 course, following:
+
+https://www.spyder-ide.org/
+
+I opened Anaconda and printed command: 
+
+conda install syder 
+
+This installed Spyder in my start menu
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem1a_ScreenshotSpyder.png
+
+I installed Jupyter from the same instructions on the installation handout:
+
+https://jupyter.org/install
+
+I opened Anaconda and printed command: 
+
+conda install jupyter
+ 
+This installed Jupyter in my start menu
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem1a_ScreenshotJupyter.png
+
+= A = 
+
+Installed version of Python 3
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem1a_ScreenshotPythonVersion_Toprightcorner.png
+
+= B =
+
+Installed GitHub desktop and named it PHZ3150
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem1b_ScreenshotGitHubDesktop.png
+
+=== Problem 2 ===
+
+My f@vour*te physi#st is Ric$ard Feynman. 
+
+Physicist favourite Richard Feynman my is. 
+
+When employing programming language, natural language raises difficulties due to ambiguity, redundancy, and literalness.  Programming requires literal, clear, formal and concise statements that are unambiguous in any context, and are without unneeded dialogue or phrases. It is important in programming language must be free from these undesirable traits present in natural language so it may determine and understand the exact command being given.
+
+=== Problem 3 ===
+
+Opened link provided from webcourses
+ https://guides.github.com/activities/hello-world/
+and completed hello-world tutorial
+
+Created new repository for HW_survey.txt in Github HW1 and pushed to origin. 
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem3_Screenshotsurvey.txt_Desktop
+
+Opened class directory in web browser, navigated to HW1, and viewed added file.
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem3_Screenshotsurvey.txt_Web
+
+End of HW2 
+
+***** OUT: Wed Jan 19 15:09:45 EST 2022
+
+***** IN: Fri Jan 21 10:18:46 EST 2022
+
+Homework 3 Answers
+
+=== Problem 1 ===
+
+Homework 3 folder made:
+PHZ3150_Handin_HW3
+
+=== Problem 2 ===
+
+= A =
+
+I downloaded the GitHub desktop app in a previous lecture by searching for the app and then entering my email and creating a password. Next I opened the desktop GitHub app and followed the following paths to create a new repository:
+
+File_New Repository
+
+Where I named this new repository:
+
+Log
+
+After naming it I created the repository than pushed repository to web browser GitHub site
+
+= B =
+
+***** OUT: FRI Jan 21 11:20:34 EST 2022
+
+***** IN: SUN Jan 23 8:28:13 EST 2022
+
+= C =
+
+I created a new folder test_git
+
+PHZ3150_test_git
+
+I placed this folder under revision control by opening the GitHub desktop app and creating a new repository 
+
+File_NewRepository 
+
+I named this repository test_git 
+
+= D = 
+
+I copy and pasted the HW1 survey into my git_test folder 
+
+PHZ3150_git_test_HW1Survey
+
+I took a screenshot of the changes:
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW3_Problem2d_CSmith_Screenshot.png
+
+I commited changes to main, then pushed changes to origin.
+
+I then deleted the HW1 survey from the git_test folder, and added the comment
+
+Removal as per HW3 Problem 2d 
+
+I committed the changes and took a screenshot of the changes:
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S 
+Saved screen capture as HW3_Problem2d_CSmith_Screenshot2.png
+
+= E =
+
+I viewed history of Github desktop app and took a screen shot of the recent addition and delete of HW1 survey from git_test
+
+Screen capture was take via snapshot command WINDOWS+SHIFT+S 
+Saved screen capture as HW3_Problem2e_CSmith_Screenshot.png
+
+=== Problem 3 ===
+
+Read Chapter 2 of ThinkPython 
+
+I opened Jupyter, and in the web brower nagivated to HW3_CSmith
+
+I created a new Python 3 notebook and renamed it hw3_CSmith_test_notebook
+
+I input a new comment in IN [1]:
+
+# Practice notebook for HW3
+
+Defined the following variables:
+
+x = 10
+y = 100
+z = x*y
+w = y-x
+
+Printed z and w
+
+***** OUT: SUN Jan 23 8:59:45 EST 2022
+
+
+
+
+
