@@ -1,0 +1,1313 @@
+Corine Smith
+
+Log for PHZ 3150, Spring 2022
+
+***** IN:  Tues Jan 11 15:17:37 EST 2022
+
+Made a directory for the class here: 
+/PHZ_3150.log
+
+I opened my terminal and new directory then right clicked to select new folder(s) to create:
+
+/PHZ_3150_Handin.log
+and 
+/PHZ_3150_Homework.log
+and
+/PHZ_3150_Demos.log
+
+I opened notepad, started this log, saved as: 
+/PHZ_3150_handin/hw1_Smith.log 
+
+I then copy-pasted the questionnaire and filled it in here:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+Name:Corine Smith
+Email:cmsengineering@knights.ucf.edu
+Phone:250-151-1175
+Major:(Double Major) Physics and Photonics Science and Engineering 
+Year:2nd 
+ID:5367851
+How did you hear about this course? Academic Advisor
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+What operating system and version does it run? Windows 10 Home
+How much free disk space does it have? 402GB
+What operating systems are you comfortable working in? Windows, Origin
+What computer classes have you taken, including high school,
+extracurricular, etc.? None
+Have you ever programmed a computer? No
+In what language(s)? N/A
+Summarize your experience:
+Have you taken statistics or probability? No
+Why are you taking this course? Its a skill that will immensely help me in my research work 
+Are there particular topics you hope to learn? General coding focused on physics 
+If you have worked with scientific data or modeling before, briefly
+describe your experience: Yes, I have experience curve fitting and data manipulation in Origin
+Have you ever been involved with a science club or similar?  If so,
+describe: I am a research assistant at UCF for Dr M Vaida in a Ultrashort Laser Lab that focuses on Photocatalysis (Charge carrier dyanamics, Synthesis and Characterization of 2D nanostructures, Ultrafast Molecular dynamics)
+
+
+***** OUT:  Tues Jan 11 15:25:45 EST 2022
+
+***** IN:  Tues Jan 11 18:53:15 EST 2022
+
+Made a new directory for books here:
+/PHZ_3150_Books.log
+
+I used the link provided in the PHZ3150 syllabus to search for "Thinkpython2" and downloaded the PDF, saving it to the book directory in PHZ 3150. 
+
+https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+I then copied this log here:
+/PHZ_3150_Handin_HW1_Smith.log 
+
+I right clicked and zipped/compressed this file, then uploaded it onto webcourses.
+
+
+***** OUT:  Tues Jan 11 18:58:45 EST 2022
+
+***** IN:  Thurs Jan 13 12:50:59 EST 2022
+
+Opened files on webcourses for computer installations. 
+
+Accepted application for github by clicking on link provided for classroom. 
+
+Downloaded minconda 3.9 windows 64 bit. Updated conda installation packages, installed numpy, scipy, ipython, matplotlib.
+
+Downloaded Atom text editor from atom.io website 
+
+***** OUT: Thurs Jan 13 13:12:21 EST 2022
+
+***** IN: Tues Jan 18 16:47:35 EST 2022
+
+Homework 2 Answers 
+
+=== Problem 1 ===
+
+On Jan 15 2022 Downloaded both Jupyter and Spyder software and saved to menu bar 
+I found the commands for the downloads on the installation handout from files in the PHZ 3150 course, following:
+
+https://www.spyder-ide.org/
+
+I opened Anaconda and printed command: 
+
+conda install syder 
+
+This installed Spyder in my start menu
+HW2_CSmith_Problem1a_ScreenshotSpyder.png
+
+I installed Jupyter from the same instructions on the installation handout:
+
+https://jupyter.org/install
+
+I opened Anaconda and printed command: 
+
+conda install jupyter
+ 
+This installed Jupyter in my start menu
+HW2_CSmith_Problem1a_ScreenshotJupyter.png
+
+A) 
+
+Installed version of Python 3
+HW2_CSmith_Problem1a_ScreenshotPythonVersion.png
+
+B)
+
+Installed GitHub desktop and named it PHZ3150
+HW2_CSmith_Problem1b_ScreenshotGitHubDesktop.png
+
+=== Problem 2 ===
+
+My f@vour*te physi#st is Ric$ard Feynman. 
+
+Physicist favourite Richard Feynman my is. 
+
+When employing programming language, natural language raises difficulties due to ambiguity, redundancy, and literalness.  Programming requires clear and concise statements that are unambiguous in any context, and are without unneeded dialogue or phrases. It is also important in programming language that the text is literal, and free from any figures of speech or allegory. 
+
+***** OUT: Tues Jan 18 17:45:25 EST 2022
+
+***** IN: Wed Jan 19 14:16:10 EST 2022
+
+Homework 2 Answers 
+
+=== Problem 1 ===
+
+On Jan 15 2022 Downloaded both Jupyter and Spyder software and saved to menu bar 
+I found the commands for the downloads on the installation handout from files in the PHZ 3150 course, following:
+
+https://www.spyder-ide.org/
+
+I opened Anaconda and printed command: 
+
+conda install syder 
+
+This installed Spyder in my start menu
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem1a_ScreenshotSpyder.png
+
+I installed Jupyter from the same instructions on the installation handout:
+
+https://jupyter.org/install
+
+I opened Anaconda and printed command: 
+
+conda install jupyter
+ 
+This installed Jupyter in my start menu
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem1a_ScreenshotJupyter.png
+
+= A = 
+
+Installed version of Python 3
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem1a_ScreenshotPythonVersion_Toprightcorner.png
+
+= B =
+
+Installed GitHub desktop and named it PHZ3150
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem1b_ScreenshotGitHubDesktop.png
+
+=== Problem 2 ===
+
+My f@vour*te physi#st is Ric$ard Feynman. 
+
+Physicist favourite Richard Feynman my is. 
+
+When employing programming language, natural language raises difficulties due to ambiguity, redundancy, and literalness.  Programming requires literal, clear, formal and concise statements that are unambiguous in any context, and are without unneeded dialogue or phrases. It is important in programming language must be free from these undesirable traits present in natural language so it may determine and understand the exact command being given.
+
+=== Problem 3 ===
+
+Opened link provided from webcourses
+ https://guides.github.com/activities/hello-world/
+and completed hello-world tutorial
+
+Created new repository for HW_survey.txt in Github HW1 and pushed to origin. 
+Screen capture taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem3_Screenshotsurvey.txt_Desktop
+
+Opened class directory in web browser, navigated to HW1, and viewed added file.
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S
+Saved screen capture as HW2_CSmith_Problem3_Screenshotsurvey.txt_Web
+
+End of HW2 
+
+***** OUT: Wed Jan 15:09:45 EST 2022
+
+***** IN: Tues Jan  25 15:18:46 EST 2022
+
+Homework 3 Answers
+
+=== Problem 1 ===
+
+Homework 3 folder made:
+PHZ3150_Handin_HW3
+
+=== Problem 2 ===
+
+= A =
+
+I downloaded the GitHub desktop app in a previous lecture, then I opened the desktop GitHub app and followed the following paths to create a new repository:
+
+File_New Repository
+
+Where I named this new repository:
+
+PHZ3150
+
+After naming it I created the repository than pushed repository to web browser GitHub site
+
+= B =
+
+I drag and dropped my log into the Github web browser
+
+CMSPhysics_PHZ3150
+
+It is named 0-PHZ3150-CSmith.log and then commited the changes.  I think went to the GitHub desktop app, refreshed from origin, then pulled from origin to synch the GitHub browser with the GitHub app.
+
+I opened the GitHub web brower and opened 
+
+CMSPhysiscs_PHZ3150
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW3_CSmith_Problem2BII_Screenshot1.png
+
+= C = 
+
+I then created a new folder named test_git and saved it under revision control in:
+
+CMSPhysics_PHZ3150
+
+= D = 
+
+I copied and pasted the hw1-survey.txt into the new test_git folder. In GitHub desktop I committed the changes and took a screenshot.
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW3_CSmith_Problem2D_Screenshot2.png
+
+I then pushed these changes to origin. 
+
+I then deleted hw1-survey.txt from the test_git folder, and added the comment Removal as per HW3 problem 2d.
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW3_CSmith_Problem2D_Screenshot3.png
+
+= E =
+
+I took a screenshot of my history of the changes on the GitHub desktop app.
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW3_CSmith_Problem2E_Screenshot4.png
+
+=== Problem 3 ===
+
+I opened Jupyter Notebook and started a new Python notebook and named it:
+
+hw3_CSmith_test_notebook. 
+
+I defined the variables x,y, z, w, and q, and performed a multiplication of x and y, subtracted y and x, added 1 to q, and multpilied q by 10.  
+
+I defined a min function to equal 3 and explained in the notebook why the name is erroneous. 
+
+***** OUT: Tues Jan 25 16:00:26 EST 2022
+
+***** IN: Sat Jan 29 13:33:23 EST 2022
+
+Homework 4 Answers
+
+=== Problem 1 ===
+
+Homework 4 folder made:
+PHZ3150_Handin_HW4
+
+This folder was then committed and pushed in Github.
+
+=== Problem 2 ===
+
+I created a new python file named:
+hw4_CSmith
+
+I created a function to Force [N] from mass[Kg] and acceleration[m/s^2], and printed results for a list of masses and acceleration values.
+
+I created a Force[N] to Acceleration[m/s^2] function, and calculated the acceleration from a list of forces with corresponding mass [150Kg].
+
+=== Problem 3 ===
+
+I opened a new python file named:
+acceleration_hw4.py 
+
+I created a function for acceleration from the change in speed [u1 and u2] divided by the change in time [t1, t2].
+
+In the hw4_CSmith python file, I imported the function acceleration and calculated the acceleration for a list of u1, u2, t1, and t2 values.
+
+I verified these results by computing the calculations by hand with a graphing calulator. 
+
+2 possible ways to determine that the code I wrote functions correctly are: 1) compute iterations by hand as I have done above and 2) use another program with built in code/functions such as excel to verify results
+
+***** OUT: Sat Jan 29 14:55:02 EST 2022
+
+***** IN: Sun Jan 30 16:16:34 EST 2022
+
+=== Problem 4 ===
+
+In the hw4_CSmith python file, I imported the function acceleration from acceleration_hw4.py and input values from the hw4 file for velocity and time.
+
+I changed the 5th element in my velocity list to 90 
+
+It did not successfully print as the acceleration function was defined for speed variables u1, u2 and time variables t1 and t2, not for overall velocity and time. 
+
+I copied and pasted my hw4 folder to:
+
+PHZ3150_handin_hw4
+
+Commited these changes on the Github desktop app, pushed the changes to origin and took a screen capture of the changes on the webbrowser.
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW4_CSmith_Problem4_Screenshot1.png
+
+***** OUT: Sun Jan 30 16:52:45 EST 2022
+
+***** IN: Mon Jan 31 08:16:45 EST 2022
+
+Homework 4 Answers
+
+=== Problem 1 ===
+
+Homework 4 folder made:
+
+PHZ3150_Handin_HW4
+
+This folder was then committed with the comment hw4_Smith and the changes were pushed in Github.
+
+=== Problem 2 ===
+
+I created a new python file named:
+hw4_CSmith
+
+I created a function to Force [N] from mass[Kg] and acceleration[m/s^2], and printed results for a list of masses and acceleration values.
+
+I created a Force[N] to Acceleration[m/s^2] function, and calculated the acceleration from a list of forces with corresponding mass [150Kg].
+
+=== Problem 3 ===
+
+I opened a new python file named:
+acceleration_hw4.py 
+
+I created a function for acceleration from the change in speed [u1 and u2] divided by the change in time [t1, t2].
+
+In the hw4_CSmith python file, I imported the function acceleration and calculated the acceleration for a list of u1, u2, t1, and t2 values.
+
+I verified these results by computing the calculations by hand with a graphing calulator. 
+
+2 possible ways to determine that the code I wrote functions correctly are: 1) Use Hypothesis (Library that allows you to generate examples to test to reveal any bugs that may be present in your code) and 2) use the doctest module in python that executes problems within a docstring to verify that the function works exactly as it should. 
+
+=== Problem 4 ===
+
+In the hw4_CSmith python file, I imported the function acceleration from acceleration_hw4.py and input values from the hw4 file for velocity and time.
+
+I changed the 5th element in my velocity list to 90 
+
+It did not successfully print as the acceleration function was defined for speed variables u1, u2 and time variables t1 and t2, not for overall velocity and time. 
+
+I copied and pasted my hw4 folder to:
+
+PHZ3150_handin_hw4
+
+Commited these changes on the Github desktop app, pushed the changes to origin and took a screen capture of the changes on the webbrowser.
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW4_CSmith_Problem4_Screenshot1.png
+
+I sent this log to my handin folder, where I right clicked and created a zipfile for my hw4 python files, this log, and the screen shot. 
+
+I then uploaded the hw4_Smith zipfile to webcourses
+
+End of HW4
+
+***** OUT: Mon Jan 31 08:25:13 EST 2022
+
+***** IN: Sun Feb 06 12:19:34 EST 2022
+
+Homework 5 Answers 
+
+=== Problem 1 ===
+
+I read chapters 10 and 12 from thinkpython2
+
+I created a new folder for HW5
+PHZ3150_Handin_HW5_CSmith 
+
+I created a new python file named:
+hw5_CSmith.ipynb 
+This python file is saved under PHZ3150_Handin_HW5_CSmith. This assignment was labelled with name, date, and assignment number.
+
+I committed these changes to Github desktop app, and pushed the changes to origin. 
+
+=== Problem 2 ====
+
+I created a quadratic formula function named quadratic_function to calulate the roots of the given polynomial x^2-x-12=0
+d = np.power( b, 2 ) - 4 * a * c 
+solution1 = - np.power( b, 2 )  - np.sqrt( d ) / 2 * a 
+solution2 = - np.power( b, 2 ) + np.sqrt( d ) / 2 * a 
+
+I printed the results to this calulation. Initially giving me incorrect values [ -4.5 , 2.5 ] when verified by hand using graphing calculator. 
+I fixed this problem by ensuring the numerator of my equation was in brakcets 
+
+solution1 = ( - np.power( b, 2 )  - np.sqrt( d ) ) / 2 * a 
+solution2 = ( - np.power( b, 2 ) + np.sqrt( d ) ) / 2 * a 
+
+=== Problem 3 === 
+
+I created a function to calculate student height from feet and inches to meters with the centimeters rounded to the nearest whole number. 
+
+I then calculated and printed the following students heights:  
+student_h = ( 5.01, 4.10, 6.02, 5.07,  6.11 )
+
+I verified these results by hand with a graphing calculator
+
+=== Problem 4 ====
+
+I opened a new python file and named it 
+displacement_function_hw5.py
+
+In this file I created a displacement function that calculates displacement as a function of initial speed[ u_init ], constant acceleration[ a ], and time[ s ]
+ s = u_init * t + 0.5 * a * np.power( t , 2 ) 
+
+I imported this function from displacement_function_hw5.py to my hw5_CSmith file, then printed and computed the results for: 
+u_init = [ 0 ]
+a = [ 10 , 20 , 30 ]
+t = [ 2 , 4 , 14 ]
+
+I verified these results by hand using a graphing calculator. 
+
+=== Problem 5 ===
+
+I copied my finalized jupyter notebook to my handin_hw5_CSmith folder, then comitted it in the Github desktop app and pushed the changes to origin. 
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW5_CSmith_Problem5_Screenshot1.png
+
+I copied this log into my PHZ3150_handin_hw5_CSmith folder, then zipped the folder, and uploaded the zipped file to webcourses.
+
+End of Homework 5 
+
+***** OUT: Sun Feb 07 11:08:05 EST 2022 
+
+***** IN: Wed Feb 09 13:34:33 EST 2022
+
+Homework 5 Answers 
+
+=== Problem 1 ===
+
+I read chapters 10 and 12 from thinkpython2
+
+I created a new folder for HW5
+PHZ3150_Handin_HW5_CSmith 
+
+I created a new python file named:
+hw5_CSmith.ipynb 
+This python file is saved under PHZ3150_Handin_HW5_CSmith. This assignment was labelled with name, date, and assignment number.
+
+I committed these changes to Github desktop app, and pushed the changes to origin. 
+
+=== Problem 2 ====
+
+I created a quadratic formula function named quadratic_function to calulate the roots of the given polynomial x^2-x-12=0
+d = np.power( b, 2 ) - 4 * a * c 
+solution1 = - np.power( b, 2 )  - np.sqrt( d ) / 2 * a 
+solution2 = - np.power( b, 2 ) + np.sqrt( d ) / 2 * a 
+
+I printed the results to this calulation. Initially giving me incorrect values [ -4.5 , 2.5 ] when verified by hand using graphing calculator. 
+I fixed this problem by ensuring the numerator of my equation was in brakcets 
+
+solution1 = ( - np.power( b, 2 )  - np.sqrt( d ) ) / 2 * a 
+solution2 = ( - np.power( b, 2 ) + np.sqrt( d ) ) / 2 * a 
+
+The function returned the results:
+[ -4.0 , 3.0 ]
+
+=== Problem 3 === 
+
+I imported math to this notebook:
+import math 
+
+I created a function to calculate student height from feet and inches to meters with the centimeters rounded to the nearest whole number:
+
+def feet_to_meter_centimeter ( ft_In ):
+    """Function that converts feet to meters and centimeters
+    INPUT: feet [ ft ] , Inches [ In ]
+    OUTPUT: meters [ m ], centimeters [ cm ] """
+    
+    Imperial_height = list(math.modf( ft_In ) )
+    ft = Imperial_height[ 0 ]
+    In = Imperial_height[ 1 ]
+    m = round ( ( ft * 0.3048 + In * 0.0254 ) * 10 , 1 )
+    cm = round( m * 10 ) 
+    
+    return [ m , cm ]
+
+I then calculated and printed the following students heights:  
+student_h = ( 5.01, 4.10, 6.02, 5.07,  6.11 )
+
+The function returned the results with the informative sentance:
+
+student 1 has height of: 1.0 m and 10 cm
+student 2 has height of: 1.0 m and 10 cm
+student 3 has height of: 2.0 m and 20 cm
+student 4 has height of: 1.0 m and 10 cm
+student 5 has height of: 2.0 m and 20 cm
+
+I verified these results by hand with a graphing calculator
+
+=== Problem 4 ====
+
+I opened a new python file and named it 
+displacement_function_hw5.py
+
+In this file I created a displacement function that calculates displacement as a function of initial speed[ u_init ], constant acceleration[ a ], and time[ s ]
+ s = u_init * t + 0.5 * a * np.power( t , 2 ) 
+
+I imported this function from displacement_function_hw5.py to my hw5_CSmith file, then printed and computed the results for: 
+u_init = [ 0 ]
+a = [ 10 , 20 , 30 ]
+t = [ 2 , 4 , 14 ]
+
+The function returned the results:
+
+20.0
+160.0
+2940.0
+
+I verified these results by hand using a graphing calculator. 
+
+=== Problem 5 ===
+
+I copied my finalized jupyter notebook to my handin_hw5_CSmith folder, then comitted it in the Github desktop app and pushed the changes to origin. 
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW5_CSmith_Problem5_Screenshot1.png
+
+I copied this log into my PHZ3150_handin_hw5_CSmith folder, then zipped the folder, and uploaded the zipped file to webcourses.
+
+End of Homework 5
+
+***** OUT: Wed Feb 09 14:45:32 EST 2022
+
+***** IN: Sat Feb 12 07:49:32 EST 2022
+
+Homework 6 Answers 
+
+=== Problem 1 ===
+
+I created a new homework folder named HW6_CSmith:
+PHZ3150_Homework_HW6_CSmith
+
+I backed this folder up on the Github desktop app, and pushed the changes to the origin.
+
+I read chapters 8 & 11 in ThinkPython.
+
+=== Problem 2 ===
+
+I created a new python file in Jupyter Notebooks named hw6_csmith 
+
+I imported numpy and matplotlib and created 3 arrays:
+
+x = np.arange( 1, 101, 0.5)
+y = np.log(x)
+z = np.sqrt(x)
+
+I plotted y(x) and z(x) on the same graph using the following parameters:
+plt.figure( figsize = (8, 8 ) )
+plt.plot  ( x, y,  color = 'red' , linestyle = '--', linewidth = 4) 
+plt.plot  ( x, z, color = 'blue' , linestyle = '-', linewidth = 3)
+plt.xlabel( 'x', fontsize = 20 )
+plt.ylabel( 'log10(x) & sqrt(x)', fontsize = 20 )
+plt.title( 'Y=log10(x) & Z=sqrt(x)' , fontsize = 30 )
+plt.yticks( fontsize = 25 )
+plt.xticks( fontsize = 25 )
+plt.xlim( 0, 100 )
+plt.tick_params(axis='both',which='major',length=12, width=4,direction='in')
+plt.text( 40 , 6, 'z=sqrt(x)' , color = 'blue' , rotation = 30 , fontsize=20 )
+plt.text( 40, 2, 'y=log10(x)' , color = 'red', rotation = 5 , fontsize=20 )
+plt.yticks( np.arange( 0, 10, step = 1 ) ,fontsize=20 ) 
+plt.xticks( np.arange( 0, 100, 10 ) ,fontsize=20 )
+
+I saved this plot as a pdf:
+
+plt.savefig( 'hw6_CSmith.pdf', format = 'pdf', 
+            dpi = 1200, bbox_inches = 'tight', pad_inches = 0.3 )
+
+=== Problem 3 ===
+
+I created a new array
+q = np.array([45 24  5 30  3 67 33 60 65 13 82 75 21 77 67  8 86 62 23 70 11 70 21 15 84 51  6 79 78 66  2 93 49 74 23 85 25 38  1 89])
+I printed this array
+
+I found and printed the locations of values of q > 50 using print(np.where( q > 50))
+
+[ 5,  7,  8, 10, 11, 13, 14, 16, 17, 19, 21, 24, 25, 27, 28, 29, 31,
+       33, 35, 39]
+
+I found and printed the elements where 50<q<70 using print( q[ np.where ( (q > 50) & (q < 70) ) ] )
+
+[67 60 65 67 62 51 66]
+
+I created a list q_list from the array q and printed the values from elements 12 to 14 
+
+[21 , 77 , 67 ]
+
+I changed the 24th element of the list to the value 42.0.  This was succesful because list are mutable. 
+
+I created a tuple called q_tuple from array q, and printed the 20th element 
+
+70
+
+Tuples are immutable, so I wasn't able to change element 21 to the value 44.0.  Tuples are static. 
+
+
+***** OUT: Sat Feb 12 10:13:22 EST 2022
+
+***** IN: Mon Feb 14 15:34:48 EST 2022
+
+==== Problem 3 ===
+
+I made a list of strings:
+word_list =  [ 'twinkle' , 'twinkle' , 'little' , 'star']
+
+I found the location and existance of the letters 'a' and 'e' in the list of strings. 
+
+I wrote a code to determine if a word is present in my string list above word_list
+
+if 'star' in word_list:
+    print("star is present in string list")
+else:
+    print("star is not present in string list")
+    
+if 'bright' in word_list:
+    print("bright is present in string list")
+else:
+    print("bright is not present in string list")
+
+The solutions printed were:
+
+star is present in string list
+bright is not present in string list
+
+=== Problem 4 ===
+
+I created a dictionary and populated it with english words and their corresponding numbers up to and including 'twenty':20
+
+I created a function word_to_number that takes the english word that corresponds to a number and returns the digit in the form of a statement "[word] is [digit]"
+
+def word_to_number( key ):
+    """Takes the english word corresponding to a number and returns the number as a digit
+    Input: english number 
+    Output: digit"""
+    
+    word_list =dict()
+    word_list['one'] = 1
+    word_list['two'] = 2
+    word_list['three'] = 3
+    word_list['four'] = 4
+    word_list['five'] = 5
+    word_list['six'] = 6 
+    word_list['seven'] = 7
+    word_list['eight'] = 8
+    word_list['nine'] = 9
+    word_list['ten'] = 10
+    word_list['eleven'] = 11
+    word_list['twelve'] = 12
+    word_list['thirteen'] = 13
+    word_list['fourteen'] = 14 
+    word_list['fifteen'] = 15
+    word_list['sixteen'] = 16
+    word_list['seventeen'] = 17
+    word_list['eighteen'] = 18
+    word_list['nineteen'] = 19
+    word_list['twenty'] = 20
+    
+    value = word_list.get( key )
+    
+    print( key, 'is', value )
+        
+    return value
+
+I called the functioin for the dictionary values three, seven, twelve, sixteen, nineteen.
+
+=== Problem 5 ===
+
+I copied my finalized jupyter notebook to my handin_hw6_CSmith folder, then comitted it in the Github desktop app and pushed the changes to origin. 
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW6_CSmith_Problem5_Screenshot1.png
+
+I copied this log into my PHZ3150_handin_hw6_CSmith folder, then zipped the folder, and uploaded the zipped file to webcourses.
+
+End of Homework 6
+
+***** OUT: Mon Feb 14 16:25:17 EST 2022
+
+***** IN: Tues Feb 15 15:06:03 EST 2022
+
+Homework 6 Answers 
+
+=== Problem 1 ===
+
+I created a new homework folder named HW6_CSmith:
+PHZ3150_Homework_HW6_CSmith
+
+I backed this folder up on the Github desktop app, and pushed the changes to the origin.
+
+I read chapters 8 & 11 in ThinkPython.
+
+=== Problem 2 ===
+
+I created a new python file in Jupyter Notebooks named hw6_csmith 
+
+I imported numpy and matplotlib and created 3 arrays:
+
+x = np.arange( 1, 101, 0.5)
+y = np.log(x)
+z = np.sqrt(x)
+
+I plotted y(x) and z(x) on the same graph using the following parameters:
+plt.figure( figsize = (8, 8 ) )
+plt.plot  ( x, y,  color = 'red' , linestyle = '--', linewidth = 4) 
+plt.plot  ( x, z, color = 'blue' , linestyle = '-', linewidth = 3)
+plt.xlabel( 'x', fontsize = 20 )
+plt.ylabel( 'log10(x) & sqrt(x)', fontsize = 20 )
+plt.title( 'Y=log10(x) & Z=sqrt(x)' , fontsize = 30 )
+plt.yticks( fontsize = 25 )
+plt.xticks( fontsize = 25 )
+plt.xlim( 0, 100 )
+plt.tick_params(axis='both',which='major',length=12, width=4,direction='in')
+plt.text( 40 , 6, 'z=sqrt(x)' , color = 'blue' , rotation = 30 , fontsize=20 )
+plt.text( 40, 2, 'y=log10(x)' , color = 'red', rotation = 5 , fontsize=20 )
+plt.yticks( np.arange( 0, 10, step = 1 ) ,fontsize=20 ) 
+plt.xticks( np.arange( 0, 100, 10 ) ,fontsize=20 )
+
+I saved this plot as a pdf:
+
+plt.savefig( 'hw6_CSmith.pdf', format = 'pdf', 
+            dpi = 1200, bbox_inches = 'tight', pad_inches = 0.3 )
+
+=== Problem 3 ===
+
+I created a new array
+q = np.array([45 24  5 30  3 67 33 60 65 13 82 75 21 77 67  8 86 62 23 70 11 70 21 15 84 51  6 79 78 66  2 93 49 74 23 85 25 38  1 89])
+I printed this array
+
+I found and printed the locations of values of q > 50 using print(np.where( q > 50))
+
+[ 5,  7,  8, 10, 11, 13, 14, 16, 17, 19, 21, 24, 25, 27, 28, 29, 31,
+       33, 35, 39]
+
+I found and printed the elements where 50<q<70 using print( q[ np.where ( (q > 50) & (q < 70) ) ] )
+
+[67 60 65 67 62 51 66]
+
+I created a list q_list from the array q and printed the values from elements 12 to 14 
+
+[21 , 77 , 67 ]
+
+I changed the 24th element of the list to the value 42.0.  This was succesful because list are mutable. 
+
+I created a tuple called q_tuple from array q, and printed the 20th element 
+
+70
+
+Tuples are immutable, so I wasn't able to change element 21 to the value 44.0.  Tuples are static. 
+
+
+I made a list of strings:
+word_list =  [ 'twinkle' , 'twinkle' , 'little' , 'star']
+
+I found the location and existance of the letters 'a' and 'e' in the list of strings. 
+
+I wrote a code to determine if a word is present in my string list above word_list
+
+if 'star' in word_list:
+    print("star is present in string list")
+else:
+    print("star is not present in string list")
+    
+if 'bright' in word_list:
+    print("bright is present in string list")
+else:
+    print("bright is not present in string list")
+
+The solutions printed were:
+
+star is present in string list
+bright is not present in string list
+
+=== Problem 4 ===
+
+I created a dictionary and populated it with english words and their corresponding numbers up to and including 'twenty':20
+
+I created a function word_to_number that takes the english word that corresponds to a number and returns the digit in the form of a statement "[word] is [digit]"
+
+def word_to_number( key ):
+    """Takes the english word corresponding to a number and returns the number as a digit
+    Input: english number 
+    Output: digit"""
+    
+    word_list =dict()
+    word_list['one'] = 1
+    word_list['two'] = 2
+    word_list['three'] = 3
+    word_list['four'] = 4
+    word_list['five'] = 5
+    word_list['six'] = 6 
+    word_list['seven'] = 7
+    word_list['eight'] = 8
+    word_list['nine'] = 9
+    word_list['ten'] = 10
+    word_list['eleven'] = 11
+    word_list['twelve'] = 12
+    word_list['thirteen'] = 13
+    word_list['fourteen'] = 14 
+    word_list['fifteen'] = 15
+    word_list['sixteen'] = 16
+    word_list['seventeen'] = 17
+    word_list['eighteen'] = 18
+    word_list['nineteen'] = 19
+    word_list['twenty'] = 20
+    
+    value = word_list.get( key )
+    
+    print( key, 'is', value )
+        
+    return value
+
+I called the functioin for the dictionary values three, seven, twelve, sixteen, nineteen.
+
+=== Problem 5 ===
+
+I copied my finalized jupyter notebook to my handin_hw6_CSmith folder, then comitted it in the Github desktop app and pushed the changes to origin. 
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW6_CSmith_Problem5_Screenshot1.png
+
+I copied this log into my PHZ3150_handin_hw6_CSmith folder, then zipped the folder, and uploaded the zipped file to webcourses.
+
+End of Homework 6
+
+***** OUT: Mon Feb 15 16:25:17 EST 2022
+
+***** IN: Thurs Feb 17 16:08:13 EST 2022
+
+Start of Homework 7
+
+=== Problem 1 ===
+
+I created a new homework folder named HW7_CSmith:
+PHZ3150_Homework_HW7_CSmith
+
+I backed this folder up on the Github desktop app, and pushed the changes to the origin.
+
+I read chapters 5 & 7 in ThinkPython.
+
+I created a new Jupyter notebook, renamed it as HW7_CSmith, and imported numpy as np
+
+=== Problem 2 ===
+
+I created a string named sentence that contained the phrase “Deleting an item from a list or array while 
+iterating over it is a Python problem that is well known to any experienced software 
+developer”
+
+I used the command sentence.split() to split the sentence into individual words in a list named word_list, and printed this list.
+
+I then used the following for/in code to print the longest word of word_list
+
+max_word = word_list[ 0 ]
+
+for words in word_list: 
+    if len( words ) > len(max_word):
+        max_word = words
+
+This printed the word of the maximum length in the list "experienced"
+
+I then used the following while loop to print the longest word of word_list
+
+i = 0
+while len(max_word) > len(word_list[i]):
+    print(max_word)
+    i += 1
+
+It printed the word of the maximum length in the list 'experienced".
+
+I then printed the first 4 words of word_list, and printed out a list of the unique letters contained within these 4 words.
+
+for i in range(0,len(s)):
+    flag = 0 
+    for j in range(0,len(s)):
+        if (s[i]==s[j] and i != j):
+            flag = 1
+            break
+    if(flag == 0):
+        print(s[i], end="")
+
+The unique letters in the first six words of word_list are:
+Dgfros
+
+***** OUT: Thurs Feb 17 17:01:53 EST 2022
+
+***** IN: Fri Feb 18 13:30:52 EST 2022
+
+=== Problem 3 ===
+
+I created a separate text file in jupyter called HW7_support_function.py
+
+I created a function named circle that gives the y values of a circle when the values [x, x0, y0, r] are given with the formula:
+ 
+y = np.sqrt((r**2)-(x-x0)**2)+y0
+
+I called this function into my main homework file HW7_CSmith, and then called the y values for the inputs values of:
+
+x0 = 2
+y0 = 2
+x = -8.+0.1*np.arange(220)
+r = 10
+y_values = circle(x,x0,y0,r)
+
+print(y_values)
+
+This printed a y_valus array.
+
+I made an array y = y_values. I received a warning/error:
+
+RuntimeWarning: invalid value encountered in sqrt
+  y = np.sqrt((r**2)-(x-x0)**2)+y0
+
+I then imported matplotlib.plt as plt, and I graphed this circle function with the following parameters:
+
+plt.figure( figsize = (8, 8 ) )
+plt.plot  ( x, y,  color = 'red' , linestyle = '-', linewidth = 4) 
+plt.xlabel( 'x', fontsize = 30 )
+plt.ylabel( 'y(x)', fontsize = 30 )
+plt.title( 'Circle' , fontsize = 30 )
+plt.yticks( fontsize = 30 )
+plt.xticks( fontsize = 20 )
+
+Initially my function printed out a semi circle not a complete circle as it didnt return the negative y values and postive y values. I changed this by creating two seperate equations in the circle function to account for both the negative and postive y values, and then plotted both arrays of y values as a function of x. 
+
+I changed my function to:
+
+def circle(x,x0,y0,r):
+    """Function that takes an array of x, the circles centre coordinates x0, y0, and radius r, and returns all y coordinates.
+    Input: xarray[x], centre coordinates[ x0, y0], radius[r]
+    Output: yarray[y]"""
+    
+    y1 = y0-np.sqrt((r**2)-(x-x0)**2)
+    y2 = y0+np.sqrt((r**2)-(x-x0)**2)
+    
+    return [y1,y2]
+
+I then plotted both y1 and y2:
+
+plt.figure( figsize = (8, 8 ) )
+plt.plot  ( x, y[0],color = 'red' , linestyle = '-', linewidth = 4) 
+plt.plot  ( x, y[1],color = 'red' , linestyle = '-', linewidth = 4) 
+plt.xlabel( 'x', fontsize = 30 )
+plt.ylabel( 'y(x)', fontsize = 30 )
+plt.title( 'Circle' , fontsize = 30 )
+plt.yticks( fontsize = 30 )
+plt.xticks( fontsize = 20 )
+
+This returned the correct circle. 
+
+=== Problem 4 ===
+
+I created another function in my HW7_support_function.py text file named order_array.  This function takes an input array and orders them from small to large. 
+ 
+    for i in range(len(input_array)):
+        for j in range(i + 1, len(input_array)):
+            if input_array[i] > input_array[j]:
+                input_array[i], input_array[j] = input_array[j], input_array[i]
+                
+                print (input_array)
+
+I imported this function into my main homework file HW7_CSmith using from HW7_support_function import order_array
+
+I ran the code with the values input_array = np.array([4,5,2,10,42,22,8,12])
+
+It returned [2 4 5 8 10 12 22 42 ] 
+
+I verified this result with a numpy command:
+
+print(np.sort(input_array))
+
+which returned the same result as the code. Verified. 
+
+=== Bonus Problem ===
+
+for i in range(6):
+    k=1
+    for j in range(i+1):
+        print(k%2, end = " ")
+        k += 1
+    print("")
+for i in range(5):
+    k = 1
+    for j in range(5-i):
+        print(k%2, end = " ")
+        k += 1 
+    print("")
+
+printed the result:
+
+1 
+1 0 
+1 0 1 
+1 0 1 0 
+1 0 1 0 1 
+1 0 1 0 1 0 
+1 0 1 0 1 
+1 0 1 0 
+1 0 1 
+1 0 
+1 
+
+=== Problem 5 ===
+
+I copied my finalized jupyter notebook to my handin_hw7_CSmith folder, then comitted it in the Github desktop app and pushed the changes to origin. 
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW7_CSmith_Problem5_Screenshot1.png
+
+I copied this log into my PHZ3150_handin_hw7_CSmith folder, then zipped the folder, and uploaded the zipped file to webcourses.
+
+End of Homework 7
+
+***** OUT: Fri Feb 18 17:52:02 EST 2022
+
+***** IN: Sun Feb 20 11:01:45 EST 2022
+
+Midterm Project Answers 
+
+=== Problem 1 ===
+
+I created a new folder named Midterm_CSmith:
+PHZ3150_Midterm_CSmith
+
+I backed this folder up on the Github desktop app, and pushed the changes to the origin.
+
+I imported numpy as np
+I imported math 
+
+=== Problem 2 ===
+
+I created input codes for the starting location and destination locations, including an informative statement. 
+
+start_location = input('Which location are you starting?')
+destination_location = input('Which location are you arriving?')
+
+I created a list named:
+
+planets_and_moons
+
+It was populated with ['Mercury', 'Venus', 'Earth', 'Moon', 'Ceres', 'Mars', 'Jupiter', 'Io', 'Europa', 'Saturn', 'Titan', 'Neptune', 'Pluto', 'Charon']
+
+I wrote a code that checks for the validity of the start location and destination location that includes an informative statement that allows traveller to proceed if they pick a valid choice, or prompts the traveller to choose from the planets_and_moons list.
+
+for start in planets_and_moons:
+    if start_location == planets_and_moons:
+        print(start_location, "is an allowed starting location, please proceed!")
+    if start_location not in planets_and_moons:
+        print("Sorry",start_location,"is not a valid starting location. Please choose from the following available starting locations",planets_and_moons)
+        start_location = input( "Please select a valid starting location")
+
+for finish in planets_and_moons:
+    if destination_location == planets_and_moons:
+        print(destination_location, 'is an allowed destination please proceed!')
+    if destination_location not in planets_and_moons:
+        print("Sorry", destination_location, "is not a valid destination location. Please choose from the following available starting locations", planets_and_moons)
+        destination_location = input("Please select a valid destination location")
+
+I tested this function by inputting the start location "Desmos" and destination location "Io".
+
+This returned the following results:
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+Midterm_CSmith_Problem2_Screenshot1.png
+
+I then followed the code prompts to pick the starting location "Jupiter" ,and recieved the following response:
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+Midterm_CSmith_Problem2_Screenshot2.png
+
+=== Problem 3 ===
+
+I used numpy to read the data of solar_system_1.dat:
+
+space_distances_data1 = np.loadtxt('../demos/solar_system_date_1.dat')
+
+***** OUT: Sun Feb 20 13:23:07 EST 2022
+
+***** IN: Sun Feb 20 19:54:12 EST 2022
+
+Start of Homework 7
+
+=== Problem 1 ===
+
+I created a new homework folder named HW7_CSmith:
+PHZ3150_Homework_HW7_CSmith
+
+I backed this folder up on the Github desktop app, and pushed the changes to the origin.
+
+I read chapters 5 & 7 in ThinkPython.
+
+I created a new Jupyter notebook, renamed it as HW7_CSmith, and imported numpy as np
+
+=== Problem 2 ===
+
+I created a string named sentence that contained the phrase “Deleting an item from a list or array while 
+iterating over it is a Python problem that is well known to any experienced software 
+developer”
+
+I used the command sentence.split() to split the sentence into individual words in a list named word_list.
+
+I then used a code:
+
+for i in word_list:
+    print(i)
+
+To scan this list for the individual words. 
+
+I then used the following for/in code to print the longest word of word_list
+
+max_word = word_list[ 0 ]
+
+for words in word_list: 
+    if len( words ) > len(max_word):
+        max_word = words
+
+This printed the word of the maximum length in the list "experienced"
+
+I then used the following while loop to print the longest word of word_list
+
+i = 0
+while len(max_word) > len(word_list[i]):
+    print(max_word)
+    i += 1
+
+It printed the word of the maximum length in the list 'experienced".
+
+I then printed the first 4 words of word_list, and printed out a list of the unique letters contained within these 4 words.
+
+for i in range(0,len(s)):
+    flag = 0 
+    for j in range(0,len(s)):
+        if (s[i]==s[j] and i != j):
+            flag = 1
+            break
+    if(flag == 0):
+        print(s[i], end="")
+
+The unique letters in the first six words of word_list are:
+Dgfros
+
+=== Problem 3 ===
+
+I created a separate text file in jupyter called HW7_support_function.py
+
+I created a function named circle that gives the y values of a circle when the values [x, x0, y0, r] are given with the formula:
+ 
+y = np.sqrt((r**2)-(x-x0)**2)+y0
+
+I called this function into my main homework file HW7_CSmith, and then called the y values for the inputs values of:
+
+x0 = 2
+y0 = 2
+x = -8.+0.1*np.arange(220)
+r = 10
+y_values = circle(x,x0,y0,r)
+
+print(y_values)
+
+This printed a y_valus array.
+
+I made an array y = y_values. I received a warning/error:
+
+RuntimeWarning: invalid value encountered in sqrt
+  y = np.sqrt((r**2)-(x-x0)**2)+y0
+
+I then imported matplotlib.plt as plt, and I graphed this circle function with the following parameters:
+
+plt.figure( figsize = (8, 8 ) )
+plt.plot  ( x, y,  color = 'red' , linestyle = '-', linewidth = 4) 
+plt.xlabel( 'x', fontsize = 30 )
+plt.ylabel( 'y(x)', fontsize = 30 )
+plt.title( 'Circle' , fontsize = 30 )
+plt.yticks( fontsize = 30 )
+plt.xticks( fontsize = 20 )
+
+Initially my function printed out a semi circle not a complete circle as it didnt return the negative y values and postive y values. I changed this by creating two seperate equations in the circle function to account for both the negative and postive y values, and then plotted both arrays of y values as a function of x. 
+
+I changed my function to:
+
+def circle(x,x0,y0,r):
+    """Function that takes an array of x, the circles centre coordinates x0, y0, and radius r, and returns all y coordinates.
+    Input: xarray[x], centre coordinates[ x0, y0], radius[r]
+    Output: yarray[y]"""
+    
+    y1 = y0-np.sqrt((r**2)-(x-x0)**2)
+    y2 = y0+np.sqrt((r**2)-(x-x0)**2)
+    
+    return [y1,y2]
+
+I then plotted both y1 and y2:
+
+plt.figure( figsize = (8, 8 ) )
+plt.plot  ( x, y[0],color = 'red' , linestyle = '-', linewidth = 4) 
+plt.plot  ( x, y[1],color = 'red' , linestyle = '-', linewidth = 4) 
+plt.xlabel( 'x', fontsize = 30 )
+plt.ylabel( 'y(x)', fontsize = 30 )
+plt.title( 'Circle' , fontsize = 30 )
+plt.yticks( fontsize = 30 )
+plt.xticks( fontsize = 20 )
+
+This returned the correct circle. 
+
+=== Problem 4 ===
+
+I created another function in my HW7_support_function.py text file named order_array.  This function takes an input array and orders them from small to large. 
+ 
+    for i in range(len(input_array)):
+        for j in range(i + 1, len(input_array)):
+            if input_array[i] > input_array[j]:
+                input_array[i], input_array[j] = input_array[j], input_array[i]
+                
+                print (input_array)
+
+I imported this function into my main homework file HW7_CSmith using from HW7_support_function import order_array
+
+I ran the code with the values input_array = np.array([4,5,2,10,42,22,8,12])
+
+It returned [2 4 5 8 10 12 22 42 ] 
+
+I verified this result with a numpy command:
+
+print(np.sort(input_array))
+
+which returned the same result as the code. Verified. 
+
+=== Bonus Problem ===
+
+for i in range(6):
+    k=1
+    for j in range(i+1):
+        print(k%2, end = " ")
+        k += 1
+    print("")
+for i in range(5):
+    k = 1
+    for j in range(5-i):
+        print(k%2, end = " ")
+        k += 1 
+    print("")
+
+printed the result:
+
+1 
+1 0 
+1 0 1 
+1 0 1 0 
+1 0 1 0 1 
+1 0 1 0 1 0 
+1 0 1 0 1 
+1 0 1 0 
+1 0 1 
+1 0 
+1 
+
+=== Problem 5 ===
+
+I copied my finalized jupyter notebook to my handin_hw7_CSmith folder, then comitted it in the Github desktop app and pushed the changes to origin. 
+
+Screen capture was taken via snapshot command WINDOWS+SHIFT+S and saved as:
+
+HW7_CSmith_Problem5_Screenshot1.png
+
+I copied this log into my PHZ3150_handin_hw7_CSmith folder, then zipped the folder, and uploaded the zipped file to webcourses.
+
+End of Homework 7
+
+***** OUT: Sun Feb 20 20:05:02 EST 2022
+
