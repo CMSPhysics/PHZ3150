@@ -3,13 +3,25 @@ import pandas as pd
 import math 
 
 def planet_tour(start_location, destination_location):
-    """Function takes the start location and destination location of the trip and returns the travel time, distance, and refuel stops.
+    """Function takes the start location and destination location of the trip and returns the travel time, distance, refuel information and refuel stops.
     Input: start_location, destination_location
     Outpu: time_years, time_days, time_hours, time_minutes, distance_for_traveller, refuel_stops"""
     
     planets_and_moons = np.array(
         ['Mercury', 'Venus', 'Earth', 'Moon', 'Ceres', 'Mars', 'Jupiter', 'Io', 'Europa', 'Saturn', 'Titan', 'Neptune',
          'Pluto', 'Charon'])
+    
+    #Grand Tour IF/ELSE loop (If N, code breaks and returns the shortest distance of travel between start location and destination location. If Y, else code run Grand Tour.) 
+    
+    
+    gt = input('Do you wanna take a grand tour, input Y for yes or N for no.')
+
+    for x in gt:
+        if x == 'N':
+            break
+        elif x == 'Y':
+
+            print('You have chosen to take a GRAND TOUR!')
     
     #Indexing and reading data from txt files 
     
@@ -24,7 +36,7 @@ def planet_tour(start_location, destination_location):
     df3 = pd.DataFrame(space_distances_date3, columns = planets_and_moons, index = planets_and_moons)
     distance_for_traveller3 = df3.loc[start_location, destination_location]
     
-    #Finding date that will have the shortest distance of travel 
+    #Finding the shortest distance of travel 
     
     travel_dates = [distance_for_traveller1, distance_for_traveller2, distance_for_traveller3]
     
@@ -33,6 +45,10 @@ def planet_tour(start_location, destination_location):
     for i in range( 1, len(travel_dates)):
         if travel_dates[i] < shortest_travel_day:
             shortest_travel_day = travel_dates[i]
+            
+    #The day that the shortest travel distance is possible 
+    
+  
             
     #Total travel time based on average speed of 0.001AU/m
         
@@ -54,7 +70,7 @@ def planet_tour(start_location, destination_location):
     
     #Messages sent back to station regarding refueling stop locations in AU
     
-    df_t = open('message_to_stations.txt', 'w')
+    df_t = open('message_to_stations3.txt', 'w')
     df_t.write('my trip starts at')
     df_t.write(start_location)
     df_t.write('and ends at')
@@ -67,9 +83,11 @@ def planet_tour(start_location, destination_location):
         df_t.write('\n')
     df_t.close()
     
+    #Grand Tour 
+    
     #Printing trip information
     
-    print("The shortest distance from", start_location, "to", destination_location, "is", shortest_travel_day, "AU", "and this trip will take", time_years, "years", time_days, "days,", time_hours, "hours, and", time_minutes, "minutes")
+    print("The shortest distance from", start_location, "to", destination_location, "is", shortest_travel_day,"AU", "and occurs on day", "and this trip will take", time_years, "years", time_days, "days,", time_hours, "hours, and", time_minutes, "minutes")
     print()
     print("You will require", refuel_stops, "refuelling stops!")
    

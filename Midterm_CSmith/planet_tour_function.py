@@ -3,7 +3,7 @@ import pandas as pd
 import math 
 
 def planet_tour(start_location, destination_location):
-    """Function takes the start location and destination location of the trip and returns the travel time, distance, and refuel stops.
+    """Function takes the start location and destination location of the trip and returns the travel time in earth years/days/heures/minutes, distance, refuel information and refuel stops.
     Input: start_location, destination_location
     Outpu: time_years, time_days, time_hours, time_minutes, distance_for_traveller, refuel_stops"""
     
@@ -11,15 +11,111 @@ def planet_tour(start_location, destination_location):
         ['Mercury', 'Venus', 'Earth', 'Moon', 'Ceres', 'Mars', 'Jupiter', 'Io', 'Europa', 'Saturn', 'Titan', 'Neptune',
          'Pluto', 'Charon'])
     
+    #Grand Tour IF/ELSE loop (If N, code breaks and returns the shortest distance of travel between start location and destination location. If Y, else code run Grand Tour.) 
+    
+    
+    gt = input('Do you wanna take a grand tour, input Y for yes or N for no.')
+
+    for x in gt:
+        if x == 'N':
+            break
+        elif x == 'Y':
+            for j in planets_and_moons:
+        print('You have chosen to take a GRAND TOUR!')
+                
+                 
+                #Indexing and reading data from txt files for GRAND TOUR stops 
+    
+                space_distance_data1 = np.loadtxt('../demos/solar_system_date_1.dat')
+                space_distances_date2 = np.loadtxt('../demos/solar_system_date_2.dat')
+                space_distances_date3 = np.loadtxt('../demos/solar_system_date_3.dat')
+    
+                start_body_i = start_location
+                destination_body_i = destination_location
+            
+                stop_location = input("Where would you like to stop on your GRAND TOUR?")
+    
+                df1 = pd.DataFrame(space_distance_data1, columns=planets_and_moons, index=planets_and_moons)
+                distance_for_traveller1 = df1.loc[start_body_i, destination_body_i]
+                df2 = pd.DataFrame(space_distances_date2, columns = planets_and_moons, index = planets_and_moons)
+                distance_for_traveller2 = df2.loc[start_body_i, destination_body_i]
+                df3 = pd.DataFrame(space_distances_date3, columns = planets_and_moons, index = planets_and_moons)
+                distance_for_traveller3 = df3.loc[start_body_i, destination_body_i]
+    
+                #Finding the shortest distance of travel 
+    
+                travel_dates = [distance_for_traveller1, distance_for_traveller2, distance_for_traveller3]
+                travel_stops = [distance_for_traveller1, distance_for_traveller2, distance_for_traveller3]
+    
+                shortest_travel_distance = travel_dates[0]
+                shortest_travel_stop = travel_stops[0]
+    
+                for i in range( 1, len(travel_dates)):
+                    if travel_dates[i] < shortest_travel_distance:
+                        shortest_travel_distance = travel_dates[i]
+                        for j in range(1, len(travel_stops)):
+                            if travel_stops[j] < shortest_travel_distance:
+                                shortest_travel_stop = travel_stops[j]
+                                print(stop_location, "is the best choice to stop on your GRAND TOUR, and occurs on", "It will add", shortest_travel_stop, "AU onto your trip total distance.")
+                
+                #Refueling information for stop
+                
+                refuel_stops = int(math.ceil(shortest_travel_distance*(1/0.65)))  
+                refuel_extra_stop = int(math.ceil(shortest_travel_stop*(1/0.65)))
+                refuel_grand_tour = refuel_stops + refuel_extra_stop
+                print("You will require", refuel_grand_tour, "stops for a GRAND TOUR!")
+                
+                
+                    #Sending information back to station in message_to_stations_stops.txt
+    
+                df_t = open('message_to_stations_stops.txt', 'w')
+                df_t.write('my trip starts at ')
+                df_t.write(start_body_i)
+                df_t.write(' and ends at')
+                df_t.write(destination_body_i)
+                df_t.write('I will need to encounter stations for \n a refueling at \n')
+                for x in range(1, refuel_stops):
+                    y = round(0.65*x, 4)
+                    df_t.write(str(y))
+                    df_t.write('AU')
+                    df_t.write('\n')
+                df_t.close()
+    
+    #Indexing and reading data from txt files 
+    
     space_distance_data1 = np.loadtxt('../demos/solar_system_date_1.dat')
     space_distances_date2 = np.loadtxt('../demos/solar_system_date_2.dat')
     space_distances_date3 = np.loadtxt('../demos/solar_system_date_3.dat')
     
-    df = pd.DataFrame(space_distance_data1, columns=planets_and_moons, index=planets_and_moons)
-    distance_for_traveller = df.loc[start_location, destination_location]
-
+    start_body_i = start_location
+    destination_body_i = destination_location
     
-    time_total = distance_for_traveller / 0.001
+    df1 = pd.DataFrame(space_distance_data1, columns=planets_and_moons, index=planets_and_moons)
+    distance_for_traveller1 = df1.loc[start_body_i, destination_body_i]
+    df2 = pd.DataFrame(space_distances_date2, columns = planets_and_moons, index = planets_and_moons)
+    distance_for_traveller2 = df2.loc[start_body_i, destination_body_i]
+    df3 = pd.DataFrame(space_distances_date3, columns = planets_and_moons, index = planets_and_moons)
+    distance_for_traveller3 = df3.loc[start_body_i, destination_body_i]
+    
+    #Finding the shortest distance of travel 
+    
+    travel_dates = [distance_for_traveller1, distance_for_traveller2, distance_for_traveller3]
+    
+    shortest_travel_distance = travel_dates[0]
+    
+    for i in range( 1, len(travel_dates)):
+        if travel_dates[i] < shortest_travel_distance:
+            shortest_travel_distance = travel_dates[i]
+            
+    #The day that the shortest travel distance is possible 
+    
+  
+            
+    #Total travel time based on average speed of 0.001AU/m
+        
+    time_total = shortest_travel_distance / 0.001
+    
+    #Travel time in earth years, days, hours, minutes 
     
     time_years = int((time_total / 24)*(1/365))
     d = (((time_total/365)-time_years)*365)/24
@@ -29,10 +125,29 @@ def planet_tour(start_location, destination_location):
     m = (h-time_hours)*60
     time_minutes = int(m)
     
-    refuel_stops = int(math.ceil(distance_for_traveller*(1/0.65)))  
+    #Number of refueling stops required per trip 
     
-    print("The distance from", start_location, "to", destination_location, "is", distance_for_traveller, "AU", "and this trip will take", time_years, "years", time_days, "days,", time_hours, "hours, and", time_minutes, "minutes")
+    refuel_stops = int(math.ceil(shortest_travel_distance*(1/0.65)))  
+    
+    #Sending information back to station in message_to_stations3.txt
+    
+    df_t = open('message_to_stations3.txt', 'w')
+    df_t.write('my trip starts at ')
+    df_t.write(start_body_i)
+    df_t.write(' and ends at')
+    df_t.write(destination_body_i)
+    df_t.write('I will need to encounter stations for \n a refueling at \n')
+    for x in range(1, refuel_stops):
+        y = round(0.65*x, 4)
+        df_t.write(str(y))
+        df_t.write('AU')
+        df_t.write('\n')
+    df_t.close()
+    
+    #Printing trip information
+    
+    print("The shortest distance from", start_body_i, "to", destination_body_i, "is", shortest_travel_distance,"AU", "and occurs on day", ".", "This trip will take", time_years, "Earth years", time_days, "Earth days,", time_hours, "Earth hours, and", time_minutes, "Earth minutes")
     print()
-    print("You will require", refuel_stops, "refuelling stops")
+    print("You will require", refuel_stops, "refuelling stops!")
    
-    return time_years, time_days, time_hours, time_minutes, distance_for_traveller, refuel_stops
+    return time_years, time_days, time_hours, time_minutes, shortest_travel_distance, refuel_stops
