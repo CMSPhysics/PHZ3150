@@ -305,7 +305,7 @@ def planet_tour(start_location, destination_location):
             df_t.write(d)
             df_t.write('. I will need to encounter stations for refueling at \n')
             for x in range(1, refuel_grand_tour):
-                y = round(0.65 * x, 4)
+                y = round((0.65 * x), 4)
                 z = np.round(z, 3)
                 df_t.write('We will refuel on date ')
                 df_t.write(str(d))
@@ -364,14 +364,14 @@ def planet_tour(start_location, destination_location):
 
     # Sending information back to station in message_to_stations3.txt
 
-    df_t = open('message_to_stations3.txt', 'w')
+    df_t = open('message_to_stations_3.txt', 'w')
     df_t.write('my trip starts at ')
     df_t.write(start_body_i)
     df_t.write(' and ends at ')
     df_t.write(destination_body_i)
     df_t.write(', I will need to encounter stations for \na refueling at \n')
     for x in range(1, refuel_stops):
-        y = round(0.65 * x, 4)
+        y = round((0.65 * x), 4)
         df_t.write(str(y))
         df_t.write('AU')
         df_t.write('\n')
